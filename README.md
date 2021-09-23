@@ -1,7 +1,5 @@
-## Just simple to code to show to show/hide progress status programmatically
+## Just simple example of code to show how to show/hide progress status programmatically
 
-\
-&nbsp;
 \
 &nbsp;
 
